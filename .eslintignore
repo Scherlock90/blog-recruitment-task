@@ -14,6 +14,5 @@ yarn.lock
 .DS_Store
 .sass-cache
 
+config-overrides.js
 jest.config.js
-plopfile.js
-postcss.config.js

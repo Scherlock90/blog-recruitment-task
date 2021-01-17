@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@namespace/*": ["./core/typings/*"],
+      "@themes/*": ["./themes/*"],
+      "@sever/*": ["./sever/*"],
+      "@helpers/*": ["./helpers/*"],
+      "@contexts/*": ["./contexts/*"],
+      "@components/*": ["./components/*"],
+      "@assets/*": ["./assets/*"],
+      "@utils/*": ["./utils/*"],
+      "@routes/*": ["./routes/*"],
+    }
+  },
+  "include": ["src"]
+}
